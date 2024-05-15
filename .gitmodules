@@ -1,0 +1,3 @@
+[submodule "ferevent"]
+	path = ferevent
+	url = https://github.com/igorsadovsky1995/ferevent
