@@ -1,3 +1,6 @@
 [submodule "ferevent"]
 	path = ferevent
 	url = https://github.com/igorsadovsky1995/ferevent
+[submodule "client"]
+	path = client
+	url = https://github.com/igorsadovsky1995/client
