@@ -39,6 +39,3 @@ This is a web-based application for events registration. Users can view a pagina
 - **Front-end**: React.js, React Router, Axios, Materialize CSS.
 - **Back-end**: Express.js, MongoDB (Mongoose).
 
-### Source Code
-
-The source code for this project is available on [GitHub](https://github.com/igorsadovsky1995/forEliftech).
