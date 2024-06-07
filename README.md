@@ -26,7 +26,7 @@ This is a web-based application for events registration. Users can view a pagina
 
    ```
    PORT=5000
-   MONGO_URI='mongodb+srv://igorsadovsky1995:qwer1234@cluster0.zps5gfk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0'
+   
    ```
 
 4. **Run the Application**: Start the server and client concurrently using the following command:
